@@ -121,7 +121,7 @@ export default function Page() {
 
 
           {/* SECOND ROW */}
-          <div className="grid grid-cols-1 xl:grid-cols-3 gap-6 border border-black">
+          <div className="grid grid-cols-1 xl:grid-cols-3 gap-6 ">
 
             {/* Terms */}
             <SectionCard
